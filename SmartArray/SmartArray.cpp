@@ -1,10 +1,11 @@
 #include "SmartArray.h"
 #include <iostream>
 
-SmartArray::SmartArray(unsigned int n)
-{
+SmartArray::SmartArray(int n)
+{   
+    this->size = n;
     this->data = new int[n];
-    for (unsigned int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
         data[i] = 0;
 }
 
@@ -16,14 +17,15 @@ SmartArray::~SmartArray()
 
 void SmartArray::setElement(int index, int value)
 {
-    if (index >= 0 && static_cast<unsigned int>(index) < this->size)
+    if (index >= 0 && index < this->size)
         this->data[index] = value;
+        return;
     std::cout << "Error: wrong index!" << std::endl;
 }
 
 int SmartArray::getElemet(int index) const
 {
-    if (index >= 0 && static_cast<unsigned int>(index) < this->size)
+    if (index >= 0 && index < this->size)
         return this->data[index];
 
     std::cout << "Error: wrong index!" << std::endl;

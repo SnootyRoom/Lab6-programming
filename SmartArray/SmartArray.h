@@ -4,11 +4,11 @@
 class SmartArray
 {
     private:
-        unsigned int size;
+        int size;
         int* data;
     
     public:
-        SmartArray(unsigned int n);
+        SmartArray(int n);
 
         ~SmartArray();
 
