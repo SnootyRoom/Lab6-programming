@@ -13,3 +13,9 @@ add_executable(point_app
     Point/Point.cpp
     Point/main.cpp
 )
+
+add_executable(digitalClock_app
+    DigitalClock/DigitalClock.h
+    DigitalClock/DigitalClock.cpp
+    DigitalClock/main.cpp
+)
