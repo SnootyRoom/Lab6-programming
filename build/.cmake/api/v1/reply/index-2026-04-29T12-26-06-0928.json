@@ -27,11 +27,7 @@
 	"objects" : 
 	[
 		{
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/index-2026-04-29T11-01-21-0051.json
-			"jsonFile" : "codemodel-v2-a4c0d2e44e45436b0944.json",
-========
-			"jsonFile" : "codemodel-v2-c1b835d6c3eeffc1002c.json",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/index-2026-04-29T12-14-51-0986.json
+			"jsonFile" : "codemodel-v2-4919a447e41e80aaebc2.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -104,11 +100,7 @@
 						}
 					},
 					{
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/index-2026-04-29T11-01-21-0051.json
-						"jsonFile" : "codemodel-v2-a4c0d2e44e45436b0944.json",
-========
-						"jsonFile" : "codemodel-v2-c1b835d6c3eeffc1002c.json",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/index-2026-04-29T12-14-51-0986.json
+						"jsonFile" : "codemodel-v2-4919a447e41e80aaebc2.json",
 						"kind" : "codemodel",
 						"version" : 
 						{

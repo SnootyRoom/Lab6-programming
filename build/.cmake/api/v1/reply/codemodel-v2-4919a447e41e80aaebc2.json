@@ -18,12 +18,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -40,12 +37,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -54,11 +48,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
-					"jsonFile" : "target-ALL_BUILD-Debug-4c3ea42cc1ffd9dc9f4f.json",
-========
-					"jsonFile" : "target-ALL_BUILD-Debug-230f1d8d834526a23d2b.json",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+					"jsonFile" : "target-ALL_BUILD-Debug-bbfadb2144c12f680804.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -71,7 +61,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-Debug-001b0360ed90fb803b0b.json",
 					"name" : "counter_app",
@@ -79,14 +68,16 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digitalClock_app-Debug-1f161e125c5343d228e2.json",
+					"name" : "digitalClock_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-Debug-9c9febe33c58c9af22cf.json",
 					"name" : "point_app",
-========
-					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-digitalClock_app-Debug-2cb4e8866b938ddb2299.json",
-					"name" : "digitalClock_app",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
 					"projectIndex" : 0
 				}
 			]
@@ -108,12 +99,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -130,12 +118,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -144,11 +129,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
-					"jsonFile" : "target-ALL_BUILD-Release-4c3ea42cc1ffd9dc9f4f.json",
-========
-					"jsonFile" : "target-ALL_BUILD-Release-230f1d8d834526a23d2b.json",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+					"jsonFile" : "target-ALL_BUILD-Release-bbfadb2144c12f680804.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -161,7 +142,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-Release-958532d911ffe5a66609.json",
 					"name" : "counter_app",
@@ -169,14 +149,16 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digitalClock_app-Release-dfe8f40ed6fcaec14a34.json",
+					"name" : "digitalClock_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-Release-92b07548cd7dd263e1df.json",
 					"name" : "point_app",
-========
-					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-digitalClock_app-Release-53f69cbe6cad93f6f6ce.json",
-					"name" : "digitalClock_app",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
 					"projectIndex" : 0
 				}
 			]
@@ -198,12 +180,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -220,12 +199,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -234,11 +210,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-4c3ea42cc1ffd9dc9f4f.json",
-========
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-230f1d8d834526a23d2b.json",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-bbfadb2144c12f680804.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -251,7 +223,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-MinSizeRel-03b272439830f57db3eb.json",
 					"name" : "counter_app",
@@ -259,14 +230,16 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digitalClock_app-MinSizeRel-c33274d47bfee5868f8b.json",
+					"name" : "digitalClock_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-MinSizeRel-0e3e5d45fd7472cc1cd5.json",
 					"name" : "point_app",
-========
-					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-digitalClock_app-MinSizeRel-ceaefea5ade69605d25f.json",
-					"name" : "digitalClock_app",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
 					"projectIndex" : 0
 				}
 			]
@@ -288,12 +261,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -310,12 +280,9 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 						2,
-						3
-========
-						2
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+						3,
+						4
 					]
 				}
 			],
@@ -324,11 +291,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-4c3ea42cc1ffd9dc9f4f.json",
-========
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-230f1d8d834526a23d2b.json",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-bbfadb2144c12f680804.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -341,7 +304,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-a4c0d2e44e45436b0944.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-RelWithDebInfo-472e5a1759c90ae7f8d7.json",
 					"name" : "counter_app",
@@ -349,14 +311,16 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digitalClock_app-RelWithDebInfo-ccc956b553355cae9d5d.json",
+					"name" : "digitalClock_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-RelWithDebInfo-5bbf2892091c18bb2a69.json",
 					"name" : "point_app",
-========
-					"id" : "digitalClock_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-digitalClock_app-RelWithDebInfo-caaec09f096b9253e639.json",
-					"name" : "digitalClock_app",
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/codemodel-v2-c1b835d6c3eeffc1002c.json
 					"projectIndex" : 0
 				}
 			]

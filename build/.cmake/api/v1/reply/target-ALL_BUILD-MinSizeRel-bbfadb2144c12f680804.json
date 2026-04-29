@@ -22,14 +22,13 @@
 	"dependencies" : 
 	[
 		{
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/target-ALL_BUILD-RelWithDebInfo-4c3ea42cc1ffd9dc9f4f.json
 			"id" : "counter_app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "point_app::@6890427a1f51a3e7e1df"
-========
+		},
+		{
 			"id" : "digitalClock_app::@6890427a1f51a3e7e1df"
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/target-ALL_BUILD-RelWithDebInfo-230f1d8d834526a23d2b.json
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
@@ -41,14 +40,13 @@
 	"orderDependencies" : 
 	[
 		{
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/target-ALL_BUILD-RelWithDebInfo-4c3ea42cc1ffd9dc9f4f.json
 			"id" : "counter_app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "point_app::@6890427a1f51a3e7e1df"
-========
+		},
+		{
 			"id" : "digitalClock_app::@6890427a1f51a3e7e1df"
->>>>>>>> DigitalClock:build/.cmake/api/v1/reply/target-ALL_BUILD-RelWithDebInfo-230f1d8d834526a23d2b.json
 		}
 	],
 	"paths" : 

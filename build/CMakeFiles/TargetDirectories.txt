@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 C:/Visual Studio Code/Lab6-programming/build/CMakeFiles/counter_app.dir
 C:/Visual Studio Code/Lab6-programming/build/CMakeFiles/point_app.dir
-=======
 C:/Visual Studio Code/Lab6-programming/build/CMakeFiles/digitalClock_app.dir
->>>>>>> DigitalClock
 C:/Visual Studio Code/Lab6-programming/build/CMakeFiles/ALL_BUILD.dir
 C:/Visual Studio Code/Lab6-programming/build/CMakeFiles/ZERO_CHECK.dir

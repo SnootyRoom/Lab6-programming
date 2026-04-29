@@ -9,26 +9,22 @@
 	</Configurations>
 	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2b440d5f-49fc-32b8-b816-f9721947c894" DefaultStartup="true">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
-<<<<<<< HEAD
 		<BuildDependency Project="counter_app.vcxproj"/>
-		<BuildDependency Project="point_app.vcxproj"/>
-=======
 		<BuildDependency Project="digitalClock_app.vcxproj"/>
->>>>>>> DigitalClock
+		<BuildDependency Project="point_app.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
 		<Build Solution="Release|*" Project="false"/>
 		<Build Solution="MinSizeRel|*" Project="false"/>
 		<Build Solution="RelWithDebInfo|*" Project="false"/>
 	</Project>
 	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="dfeacd4a-03cd-3f54-b52f-491914b307c9"/>
-<<<<<<< HEAD
 	<Project Path="counter_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="620bc2a8-ea9b-3ae2-b44d-0fdee4d10cc5">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
-	<Project Path="point_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="935ba1eb-7d5c-3f15-a6c1-733f5c88415b">
-=======
 	<Project Path="digitalClock_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="66c11dbc-080e-3120-9eaa-104e24eddca7">
->>>>>>> DigitalClock
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="point_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="935ba1eb-7d5c-3f15-a6c1-733f5c88415b">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 </Solution>
