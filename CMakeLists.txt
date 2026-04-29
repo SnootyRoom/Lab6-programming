@@ -19,3 +19,8 @@ add_executable(digitalClock_app
     DigitalClock/DigitalClock.cpp
     DigitalClock/main.cpp
 )
+add_executable(student_app
+    Student/Student.h
+    Student/Student.cpp
+    Student/main.cpp
+)
