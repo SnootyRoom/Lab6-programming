@@ -178,6 +178,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{620BC2A8-EA9B-3AE2-B44D-0FDEE4D10CC5}</Project>
       <Name>counter_app</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Visual Studio Code\Lab6-programming\build\point_app.vcxproj">
+      <Project>{935BA1EB-7D5C-3F15-A6C1-733F5C88415B}</Project>
+      <Name>point_app</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -7,3 +7,9 @@ add_executable(counter_app
     Counter/Counter.cpp 
     Counter/main.cpp
 )
+
+add_executable(point_app
+    Point/Point.h
+    Point/Point.cpp
+    Point/main.cpp
+)
