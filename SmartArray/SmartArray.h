@@ -5,7 +5,7 @@ class SmartArray
 {
     private:
         unsigned int size;
-        int* data[];
+        int* data;
     
     public:
         SmartArray(unsigned int n);
@@ -14,7 +14,7 @@ class SmartArray
 
         void setElement(int index, int value);
 
-        int getElemet();
+        int getElemet(int index) const;
 };
 
 #endif
