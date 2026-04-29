@@ -6,7 +6,7 @@
 
 Student::Student(std::string name, std::string surname, unsigned int studentId) : name(name), surname(surname), studentId(studentId) {}
 
-Student::~Student() { std::cout << "Память для студента " << this->name << "освобождена" <<std::endl; }
+Student::~Student() { std::cout << "Memory for student " << this->name << " free" <<std::endl; }
 
 void Student::addGrade(unsigned int grade) 
 { 
