@@ -174,7 +174,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-<<<<<<< HEAD
     <ProjectReference Include="C:\Visual Studio Code\Lab6-programming\build\counter_app.vcxproj">
       <Project>{620BC2A8-EA9B-3AE2-B44D-0FDEE4D10CC5}</Project>
       <Name>counter_app</Name>
@@ -187,14 +186,13 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{935BA1EB-7D5C-3F15-A6C1-733F5C88415B}</Project>
       <Name>point_app</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Visual Studio Code\Lab6-programming\build\student_app.vcxproj">
-      <Project>{51CB6478-1357-3AB3-917B-7BD4E72E83AE}</Project>
-      <Name>student_app</Name>
-=======
     <ProjectReference Include="C:\Visual Studio Code\Lab6-programming\build\smartArray_app.vcxproj">
       <Project>{F7981381-89FF-3643-B5C0-BB39C5A15BA8}</Project>
       <Name>smartArray_app</Name>
->>>>>>> SmartArray
+    </ProjectReference>
+    <ProjectReference Include="C:\Visual Studio Code\Lab6-programming\build\student_app.vcxproj">
+      <Project>{51CB6478-1357-3AB3-917B-7BD4E72E83AE}</Project>
+      <Name>student_app</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
