@@ -24,3 +24,8 @@ add_executable(student_app
     Student/Student.cpp
     Student/main.cpp
 )
+add_executable(smartArray_app
+    SmartArray/SmartArray.h
+    SmartArray/SmartArray.cpp
+    SmartArray/main.cpp
+)
