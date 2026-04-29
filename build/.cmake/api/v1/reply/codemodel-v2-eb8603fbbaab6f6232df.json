@@ -18,13 +18,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -41,13 +38,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -56,11 +50,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
-					"jsonFile" : "target-ALL_BUILD-Debug-bbfadb2144c12f680804.json",
-========
-					"jsonFile" : "target-ALL_BUILD-Debug-933e1d52c3ba00e68879.json",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+					"jsonFile" : "target-ALL_BUILD-Debug-a453a84aa2f04cefe109.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -73,7 +63,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-Debug-001b0360ed90fb803b0b.json",
 					"name" : "counter_app",
@@ -91,11 +80,13 @@
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-Debug-9c9febe33c58c9af22cf.json",
 					"name" : "point_app",
-========
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "student_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-student_app-Debug-1df575a4677e5a5a67b4.json",
+					"jsonFile" : "target-student_app-Debug-f5b5f44949c91ae0a70f.json",
 					"name" : "student_app",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
 					"projectIndex" : 0
 				}
 			]
@@ -117,13 +108,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -140,13 +128,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -155,11 +140,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
-					"jsonFile" : "target-ALL_BUILD-Release-bbfadb2144c12f680804.json",
-========
-					"jsonFile" : "target-ALL_BUILD-Release-933e1d52c3ba00e68879.json",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+					"jsonFile" : "target-ALL_BUILD-Release-a453a84aa2f04cefe109.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -172,7 +153,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-Release-958532d911ffe5a66609.json",
 					"name" : "counter_app",
@@ -190,11 +170,13 @@
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-Release-92b07548cd7dd263e1df.json",
 					"name" : "point_app",
-========
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "student_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-student_app-Release-d72042b9ab8fb412dae3.json",
+					"jsonFile" : "target-student_app-Release-9cfa6d541bd529356772.json",
 					"name" : "student_app",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
 					"projectIndex" : 0
 				}
 			]
@@ -216,13 +198,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -239,13 +218,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -254,11 +230,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-bbfadb2144c12f680804.json",
-========
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-933e1d52c3ba00e68879.json",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-a453a84aa2f04cefe109.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -271,7 +243,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-MinSizeRel-03b272439830f57db3eb.json",
 					"name" : "counter_app",
@@ -289,11 +260,13 @@
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-MinSizeRel-0e3e5d45fd7472cc1cd5.json",
 					"name" : "point_app",
-========
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "student_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-student_app-MinSizeRel-e603c7546e1c16565a30.json",
+					"jsonFile" : "target-student_app-MinSizeRel-fae26912f4883cdf7fa1.json",
 					"name" : "student_app",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
 					"projectIndex" : 0
 				}
 			]
@@ -315,13 +288,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -338,13 +308,10 @@
 					[
 						0,
 						1,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 						2,
 						3,
-						4
-========
-						2
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+						4,
+						5
 					]
 				}
 			],
@@ -353,11 +320,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-bbfadb2144c12f680804.json",
-========
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-933e1d52c3ba00e68879.json",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-a453a84aa2f04cefe109.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -370,7 +333,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/codemodel-v2-4919a447e41e80aaebc2.json
 					"id" : "counter_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-counter_app-RelWithDebInfo-472e5a1759c90ae7f8d7.json",
 					"name" : "counter_app",
@@ -388,11 +350,13 @@
 					"id" : "point_app::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-point_app-RelWithDebInfo-5bbf2892091c18bb2a69.json",
 					"name" : "point_app",
-========
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "student_app::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-student_app-RelWithDebInfo-5553483dd036b9704f65.json",
+					"jsonFile" : "target-student_app-RelWithDebInfo-7fbd1511df3bc2416482.json",
 					"name" : "student_app",
->>>>>>>> Student:build/.cmake/api/v1/reply/codemodel-v2-3bb27f5422b9e0e70cf6.json
 					"projectIndex" : 0
 				}
 			]

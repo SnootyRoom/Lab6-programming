@@ -22,20 +22,19 @@
 	"dependencies" : 
 	[
 		{
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/target-ALL_BUILD-MinSizeRel-bbfadb2144c12f680804.json
-			"id" : "counter_app::@6890427a1f51a3e7e1df"
-		},
-		{
 			"id" : "point_app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "digitalClock_app::@6890427a1f51a3e7e1df"
-========
+		},
+		{
 			"id" : "student_app::@6890427a1f51a3e7e1df"
->>>>>>>> Student:build/.cmake/api/v1/reply/target-ALL_BUILD-MinSizeRel-933e1d52c3ba00e68879.json
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "counter_app::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
@@ -44,17 +43,16 @@
 	"orderDependencies" : 
 	[
 		{
-<<<<<<<< HEAD:build/.cmake/api/v1/reply/target-ALL_BUILD-MinSizeRel-bbfadb2144c12f680804.json
-			"id" : "counter_app::@6890427a1f51a3e7e1df"
-		},
-		{
 			"id" : "point_app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "digitalClock_app::@6890427a1f51a3e7e1df"
-========
+		},
+		{
 			"id" : "student_app::@6890427a1f51a3e7e1df"
->>>>>>>> Student:build/.cmake/api/v1/reply/target-ALL_BUILD-MinSizeRel-933e1d52c3ba00e68879.json
+		},
+		{
+			"id" : "counter_app::@6890427a1f51a3e7e1df"
 		}
 	],
 	"paths" : 
